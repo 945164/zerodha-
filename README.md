@@ -14,7 +14,7 @@ Additionally, the project requires the following technologies:
 
 React
 
-Folder Structure
+**Folder Structure**
 Folder Structure
 Create a Folder: Create a folder named zerodha on your local machine.
 
